@@ -1,11 +1,5 @@
-h1{
-    background-color: red;
-}
 *{ 
     background-image: url(dog.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-}
-p{
-    color: brown;
 }
